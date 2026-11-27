@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../FormBasics/FormBasics.csproj" />
+  <Project Path="../Greeting App/Greeting App.csproj" />
+  <Project Path="WinFormsApp1.csproj" />
+</Solution>
